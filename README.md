@@ -1,2 +1,2 @@
 # bobbykohls.github.io
-LIS 352 Project
+LIS 351 Project
