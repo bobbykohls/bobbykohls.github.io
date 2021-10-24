@@ -1,0 +1,49 @@
+* {
+	color: #4a4846;
+	text-align: center;
+	background-color: #fffdf2;
+}
+
+body {
+	font-family: Arial, Verdana, sans-serif;
+	width: 1000px;
+	margin: 0 auto;
+}
+
+nav {
+	font-family: Arial, Verdana, sans-serif;
+	background-color: #dedede;
+	padding: 9px;
+	margin: 9px;
+}
+
+ul {
+	background-color: #dedede;
+}
+
+li {
+	font-family: Arial, Verdana, sans-serif;
+	background-color: #dedede;
+	display: inline;
+	padding: 8px;
+}
+
+section {
+	font-family: Arial, Verdana, sans-serif;
+	overflow: auto;
+	height: 100%;
+}
+
+dt {
+	padding: 9px;
+	margin: 9px;
+}
+
+dd {
+	padding: 3px;
+	margin: 9px;
+}
+
+footer {
+	font-family: Georgia, serif;
+}
